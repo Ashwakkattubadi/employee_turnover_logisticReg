@@ -171,7 +171,3 @@ pip install -r requirements.txt
 GitHub: https://github.com/Ashwakkattubadi
 
 ---
-
-## License
-
-This project is for educational and learning purposes.
